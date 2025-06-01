@@ -12,7 +12,7 @@ class FontAdjusterApp(QWidget):
         self.setMinimumSize(1000, 600)  # Diperlebar
 
         # === LABEL UTAMA ===
-        self.label = QLabel("F1D022061")
+        self.label = QLabel("F1D022113")
         self.label.setAlignment(Qt.AlignCenter)
         self.label.setFont(QFont("Arial", 40))
         self.label.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Fixed)
